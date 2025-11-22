@@ -1,0 +1,7 @@
+{
+  "name": "Time Connect",
+  "description": "A location-based social discovery app connecting users based on shared interests within a customizable radius.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
